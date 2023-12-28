@@ -3,7 +3,7 @@
 Script to re-generate the registry entry for Universal Discovery Agent (UDAgent)
 ## Overview
 
-This script facilitates the regeneration of registry entries for the Universal Discovery Agent (UDAgent) on Unix-based operating systems. The UDAgent is a critical component for discovering and collecting information about the system it's installed on.
+This script facilitates the regeneration of registry entries for Universal Discovery Agent (UDAgent) on Unix-based operating systems. The UDAgent is a critical component for discovering and collecting information about the system it's installed on.
 
 ## Usage
 
@@ -11,7 +11,7 @@ This script facilitates the regeneration of registry entries for the Universal D
 
    Download the script to the target Unix-based system where UDAgent is installed.
       ```bash
-   git clone https://github.com/Prajwal-PS7/chRegistry/chRegistry.git
+   git clone https://github.com/Prajwal-PS7/chRegistry.git
    ```
 
 3. **Grant Execution Permissions:**
@@ -47,7 +47,7 @@ This script facilitates the regeneration of registry entries for the Universal D
   Ensure that any dependencies required by UDAgent are installed on the system before running the script.
 
 - **Logging:**
-  As off now there is no logs creating for the script for troubleshooting. You can review the On-Screen Instructions to identify any issues during the regeneration process.
+  As of now there is no logs creating for the script for troubleshooting. You can review the On-Screen Instructions to identify issue occurs during the regeneration process.
 
 ## Contributing
 
