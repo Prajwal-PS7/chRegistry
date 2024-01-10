@@ -14,6 +14,14 @@ This script facilitates the regeneration of registry entries for Universal Disco
    git clone https://github.com/Prajwal-PS7/chRegistry.git
    ```
 
+2. **Go to directory path**
+
+   Download the script to the target Unix-based system where UDAgent is installed.
+      ```bash
+   cd chRegistry/
+   ```
+### (Linux/AIX)
+
 3. **Grant Execution Permissions:**
 
    Ensure the script has execution permissions:
@@ -37,6 +45,30 @@ This script facilitates the regeneration of registry entries for Universal Disco
 6. **Verification:**
 
    After running the script, verify that the UDAgent registry entries have been successfully regenerated. You can check the "**aioptionrc**" file located in **/root/.discagnt/** or **/.discagnt/** for confirmation.
+
+### (Windows)
+
+3. **Execute the Script:**
+<br>
+Double Click on chRegistry.bat file.
+<br><br >OR <br><br>
+Right click on chRegistry.bat file and select Run.
+<br><br>OR <br><br>
+Open a command prompt and type below command :
+
+   ```bash
+   chRegistry.bat
+   ```
+   
+
+5. **Follow On-Screen Instructions:**
+
+   The script will not guide you through the process of regenerating the UDAgent registry entries. You do not need to put anything during execution of script.
+
+6. **Verification:**
+
+   After running the script, verify that the UDAgent registry entries have been successfully regenerated. You can check the "**aioptionrc**" file located in **/root/.discagnt/** or **/.discagnt/** for confirmation.
+
 
 ## Important Notes
 
