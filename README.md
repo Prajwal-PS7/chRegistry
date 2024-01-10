@@ -67,9 +67,8 @@ Open a command prompt and type below command :
 
 6. **Verification:**
 
-   After running the script, verify that the UDAgent registry entries have been successfully regenerated. You can check the "**aioptionrc**" file located in **/root/.discagnt/** or **/.discagnt/** for confirmation.
-
-
+   After running the script, verify that the UDAgent registry entries have been successfully regenerated. You can check the "**UD_UNIQUE_ID**" and "**UD_UNIQUE_ID_HostName**" key value  located in **HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Hewlett-Packard\Universal Discovery\V1\Options** of windows registry editor.
+   
 ## Important Notes
 
 - **Backup:**
