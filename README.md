@@ -1,5 +1,6 @@
-Script to re-generate the registry entry for Universal Discovery Agent (UDAgent)
 # chRegistry
+
+Script to re-generate the registry entry for Universal Discovery Agent (UDAgent)
 
 ## Overview
 
