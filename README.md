@@ -1,6 +1,6 @@
+Script to re-generate the registry entry for Universal Discovery Agent (UDAgent)
 # chRegistry
 
-Script to re-generate the registry entry for Universal Discovery Agent (UDAgent)
 ## Overview
 
 This script facilitates the regeneration of registry entries for Universal Discovery Agent (UDAgent) on Unix-based operating systems. The UDAgent is a critical component for discovering and collecting information about the system it's installed on.
