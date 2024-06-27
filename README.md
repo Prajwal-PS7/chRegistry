@@ -92,4 +92,4 @@ This script is released under the [MIT License](LICENSE). @Copyleft
 
 This script is provided as-is without any warranty. Use it at your own risk and ensure that you understand its impact on your system before execution.
 
-For detailed information about the Universal Discovery Agent (UDAgent) and its configuration, refer to the official documentation provided by the vendor (MicroFocus / OpenText).
+For detailed information about the Universal Discovery Agent (UDAgent) and its configuration, refer to the official documentation provided by the OEM (MicroFocus / OpenText).
